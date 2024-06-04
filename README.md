@@ -3,6 +3,7 @@
 
 
 🔭 현재 **SK Shieldus - 차세대 시스템 구축에 참여하고 있습니다.**
+
 📱 사이드 프로젝트인 [Habit Project](https://play.google.com/store/apps/details?id=com.thehabitproject&hl=en_US)에서 운영 및 백앤드 개발을 담당하고 있습니다. (Typescript, Nest.JS, ReactNative)
 
 
