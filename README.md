@@ -2,16 +2,13 @@
 <h3 align="center">재밌게 일하고 싶은 찬호호입니다 :)</h3>
 
 
-🔭 현재 **SK Shieldus - 차세대 시스템 구축에 참여하고 있습니다.**
+🔭 현재 **SK C&C에서 SWE 직무로 근무 중입니다.**
 
 📱 사이드 프로젝트인 [Habit Project](https://play.google.com/store/apps/details?id=com.thehabitproject&hl=en_US)에서 운영 및 백앤드 개발을 담당하고 있습니다. (Typescript, Nest.JS, ReactNative)
-
 
 🌱 현재 **Nest.js**를 공부 중입니다.
 
 👨‍💻 제 모든 프로젝트는 [노션에서](https://www.notion.so/Go-to-Space-with-me-dddab70c33bd4776911d4d9d234dc5d0?pvs=4) 확인할 수 있습니다.
-
-📝 저는 가끔 [링크드인에서](https://www.linkedin.com/in/chanhhoo/) 글을 쓰고 있습니다.
 
 ☕️ 커피챗은 언제나 환영합니다 
 
